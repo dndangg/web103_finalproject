@@ -1,4 +1,4 @@
-# [your app name here]
+# RendezVue
 
 CodePath WEB103 Final Project
 
