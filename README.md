@@ -10,7 +10,7 @@ Designed and developed by: Dosbol Aliev, Dylan Dang, Fay Nguyen
 
 ### Description and Purpose
 
-Therefore, this application is designed to connect people who share the same hobbies and live nearby to foster meaningful friendships and community connections. The app functions similarly to a dating platform but focuses on hobby-based matching. Users can create profiles highlighting their interests, such as dancing, hiking, painting, or gaming, and the app will match them with others in close proximity who enjoy the same activities. The goal is to encourage people to meet, share experiences, and spend quality time doing what they love—turning neighborhoods into vibrant networks of shared passion
+This application is designed to connect people who share the same hobbies and live nearby to foster meaningful friendships and community connections. The app functions similarly to a dating platform but focuses on hobby-based matching. Users can create profiles highlighting their interests, such as dancing, hiking, painting, or gaming, and the app will match them with others in close proximity who enjoy the same activities. The goal is to encourage people to meet, share experiences, and spend quality time doing what they love—turning neighborhoods into vibrant networks of shared passion
 
 ### Inspiration
 
