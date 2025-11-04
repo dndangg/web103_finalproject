@@ -16,12 +16,12 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 10. Explore Page (trending hobbies & activities)
 11. Settings / Account Page
 
-## Wireframe 1: [page title]
+## Wireframe 1: Onboarding / Profile Setup Page
 
 
 
-## Wireframe 2: [page title]
+## Wireframe 2: Matches / People Nearby Page
 
 
 
-## Wireframe 3: [page title]
+## Wireframe 3: Events / Meetups Page (browse & create events)
