@@ -18,7 +18,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 1: Onboarding / Profile Setup Page
 
-
+![Imgur](https://i.imgur.com/vRxl9eU.png)
 
 ## Wireframe 2: Matches / People Nearby Page
 
