@@ -22,6 +22,8 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 2: Matches / People Nearby Page
 
-
+![Imgur](https://i.imgur.com/WMsXY7w.png)
 
 ## Wireframe 3: Events / Meetups Page (browse & create events)
+
+![Imgur](https://i.imgur.com/xgO5XUl.png)
