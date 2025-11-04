@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Dosbol Aliev, Dylan Dang, Fay Nguyen
+Designed and developed by: Dylan Dang, Fay Nguyen
 
 🔗 Link to deployed app:
 
